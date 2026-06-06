@@ -1,56 +1,34 @@
-# Accessible Semantic Portfolio Website
+# My Portfolio Website
 
-## Project Overview
-This project is a multi-page personal portfolio website developed using modern semantic HTML5 standards and accessibility best practices.
+This is a simple multi-page portfolio website created using HTML and CSS as part of my internship task.
 
-The website is designed to be fully accessible, SEO-friendly, and easy to navigate for all users, including screen reader users and keyboard-only users.
-
----
+The main goal of this project was to build a website using semantic HTML5 elements while following accessibility and SEO best practices.
 
 ## Features
 - Semantic HTML5 structure
 - Accessible navigation
-- ARIA labels for screen readers
+- ARIA labels for better screen reader support
 - SEO-friendly meta tags
-- Responsive layout
+- Responsive design
 - Accessible contact form
-- Keyboard/tab navigation support
-- Multi-page website structure
+- Multi-page website
 
----
-
-## Semantic Elements Used
-- header
-- nav
-- main
-- section
-- article
-- footer
-
----
-
-## Accessibility Features
-- Skip-to-content link
-- ARIA labels
-- Proper form labels
-- Keyboard accessibility
-- Logical heading structure
-- Accessible navigation links
-
----
+## Pages Included
+- Home
+- About
+- Contact
 
 ## Technologies Used
 - HTML5
 - CSS3
 
----
-
-## Pages Included
-- Home Page
-- About Page
-- Contact Page
-
----
+## Accessibility
+This website follows basic WCAG accessibility guidelines by including:
+- Proper semantic tags
+- Keyboard navigation support
+- Accessible form labels
+- Skip-to-content link
+- ARIA attributes
 
 ## Outcome
-This project follows WCAG accessibility guidelines and modern semantic HTML practices to achieve high Accessibility and SEO scores in Lighthouse audits.
+Through this project, I learned how to create accessible and well-structured web pages using modern HTML5 practices.
