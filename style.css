@@ -280,3 +280,12 @@ footer{
     width: auto;
     min-width: 120px;
 }
+
+#weatherResult{
+    margin-top: 20px;
+    text-align: center;
+}
+
+#weatherResult p{
+    margin: 10px 0;
+}
